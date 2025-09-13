@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: A meeting timer and reporting assistant designed specifically for Toastmasters clubs.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Time Reporter
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
 
@@ -105,14 +105,6 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
   - Email
   - RSS
 
